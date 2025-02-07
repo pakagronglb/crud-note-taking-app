@@ -30,13 +30,6 @@ cd crud-note-taking-app
 bun install
 ```
 
-## 🚀 Usage
-
-To run the application:
-```bash
-bun run index.ts
-```
-
 ## 📂 Project Structure
 
 ```
